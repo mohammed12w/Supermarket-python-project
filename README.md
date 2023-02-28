@@ -1,1 +1,0 @@
-# Supermarket-python-project
